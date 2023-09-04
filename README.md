@@ -21,7 +21,7 @@ Access the live interactive dashboard [here]([link-to-live-dashboard](https://pu
 ## Repository Contents
 
 - `Sales_Dashboard.twbx`: Tableau workbook file
-
+- `Sample_superstore.csv`: Data set file
 
 
 
